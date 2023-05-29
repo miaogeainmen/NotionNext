@@ -1,5 +1,5 @@
 const CONFIG_HEXO = {
-  HOME_BANNER_ENABLE: true,
+  HOME_BANNER_ENABLE: false,
   HOME_BANNER_GREETINGS: ['Hi，我是喵哥', 'Hi，很高兴认识你们', 'Hi，喵哥爱你们', '欢迎来到我的博客🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
